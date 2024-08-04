@@ -1,0 +1,49 @@
+﻿
+
+
+
+ @model Library.Models.LibraryModel
+
+ <h1>@Model.Genre</h1>
+
+
+@Html.ActionLink("AddShelf", "CreateShelf", "Shelf", new { id = Model.Id }) 
+@foreach (ShelfModel shelf in Model.Shelfs)
+{
+
+ 
+
+<div class="shelf-container">
+        <h3>Shelf @shelf.Id</h3>
+        <p>Height: @shelf.Height, Width: @shelf.Width</p>
+        <p>
+
+            @Html.ActionLink("CreateSetBook", "CreateSetBook", "SetBook", new { id = shelf.Id,libraryId = Model.Id })
+
+        </p>
+        <p>------</p>
+        @foreach (SetBookModel set in shelf.SetBooks)
+        {
+            @foreach (var modelState in ViewData.ModelState.Values)
+            {
+                @foreach (var error in modelState.Errors)
+                {
+                    <li>@error.ErrorMessage</li>
+                }
+            }
+
+            @Html.ActionLink("AddBook", "AddBook", "Book", new { id = set.Id })
+
+            <h5>@set.Name</h5>
+
+            @foreach (BookModel book in set.Books)
+            {
+
+                <p>@book.Name</p>
+            }
+
+    }
+
+    </div>
+
+}

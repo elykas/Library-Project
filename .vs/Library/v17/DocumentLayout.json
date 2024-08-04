@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|c:\\users\\user\\onedrive\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\my codes\\webiks\\c#\\library\\library\\controllers\\setbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\controllers\\setbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\service\\setbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\service\\setbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\viewmodel\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\viewmodel\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\service\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\views\\library\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\views\\library\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\views\\library\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\views\\setbook\\createsetbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\views\\setbook\\createsetbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\views\\book\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\service\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\service\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\service\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\service\\isetbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\service\\isetbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\service\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\service\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\viewmodel\\shelfvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\viewmodel\\shelfvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\models\\librarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\models\\librarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\controllers\\shelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\service\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\service\\ilibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\models\\setbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\models\\setbookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\viewmodel\\setbookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\viewmodel\\setbookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\views\\shelf\\createshelf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\views\\shelf\\createshelf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\library\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D924B1-EEAE-4FCE-815F-565A2727B2BC}|Library\\Library.csproj|solutionrelative:library\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\Library\\Details.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Library\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\Library\\Details.cshtml",
+              "RelativeToolTip": "Library\\Views\\Library\\Details.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwBwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T13:08:53.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Library\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T11:47:15.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SetBookController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Controllers\\SetBookController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\SetBookController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Controllers\\SetBookController.cs",
+              "RelativeToolTip": "Library\\Controllers\\SetBookController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAtwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:51:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\Library\\Index.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Library\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\Library\\Index.cshtml",
+              "RelativeToolTip": "Library\\Views\\Library\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T11:13:16.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SetBookService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\SetBookService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\SetBookService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\SetBookService.cs",
+              "RelativeToolTip": "Library\\Service\\SetBookService.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAIA0wDoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:47:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Library\\Controllers\\BookController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwBwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:28:57.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\IBookService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\IBookService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\IBookService.cs",
+              "RelativeToolTip": "Library\\Service\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:23:42.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\ViewModel\\BookVM.cs",
+              "RelativeDocumentMoniker": "Library\\ViewModel\\BookVM.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\ViewModel\\BookVM.cs",
+              "RelativeToolTip": "Library\\ViewModel\\BookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T07:25:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateSetBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\SetBook\\CreateSetBook.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\SetBook\\CreateSetBook.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\SetBook\\CreateSetBook.cshtml",
+              "RelativeToolTip": "Library\\Views\\SetBook\\CreateSetBook.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T09:21:39.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\Book\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Book\\AddBook.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\Book\\AddBook.cshtml",
+              "RelativeToolTip": "Library\\Views\\Book\\AddBook.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T16:04:11.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:57:22.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "Library\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA0wCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:37:39.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISetBookService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\ISetBookService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\ISetBookService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\ISetBookService.cs",
+              "RelativeToolTip": "Library\\Service\\ISetBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:36:55.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\LibraryService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\LibraryService.cs",
+              "RelativeToolTip": "Library\\Service\\LibraryService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA+wBUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:41:29.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\BookService.cs",
+              "RelativeToolTip": "Library\\Service\\BookService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T14:24:19.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\ShelfService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\ShelfService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\ShelfService.cs",
+              "RelativeToolTip": "Library\\Service\\ShelfService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAxwC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:02:34.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Models\\BookModel.cs",
+              "RelativeToolTip": "Library\\Models\\BookModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:21:37.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\IShelfService.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\IShelfService.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\IShelfService.cs",
+              "RelativeToolTip": "Library\\Service\\IShelfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:01:26.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShelfVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\ViewModel\\ShelfVM.cs",
+              "RelativeDocumentMoniker": "Library\\ViewModel\\ShelfVM.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\ViewModel\\ShelfVM.cs",
+              "RelativeToolTip": "Library\\ViewModel\\ShelfVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:56:52.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LibraryModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Models\\LibraryModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\LibraryModel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Models\\LibraryModel.cs",
+              "RelativeToolTip": "Library\\Models\\LibraryModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T06:34:54.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShelfController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Controllers\\ShelfController.cs",
+              "RelativeDocumentMoniker": "Library\\Controllers\\ShelfController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Controllers\\ShelfController.cs",
+              "RelativeToolTip": "Library\\Controllers\\ShelfController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:03:11.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ILibrary.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\ILibrary.cs",
+              "RelativeDocumentMoniker": "Library\\Service\\ILibrary.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Service\\ILibrary.cs",
+              "RelativeToolTip": "Library\\Service\\ILibrary.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:40:58.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SetBookModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Models\\SetBookModel.cs",
+              "RelativeDocumentMoniker": "Library\\Models\\SetBookModel.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Models\\SetBookModel.cs",
+              "RelativeToolTip": "Library\\Models\\SetBookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:00:27.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SetBookVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\ViewModel\\SetBookVM.cs",
+              "RelativeDocumentMoniker": "Library\\ViewModel\\SetBookVM.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\ViewModel\\SetBookVM.cs",
+              "RelativeToolTip": "Library\\ViewModel\\SetBookVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T08:44:52.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateShelf.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\Shelf\\CreateShelf.cshtml",
+              "RelativeDocumentMoniker": "Library\\Views\\Shelf\\CreateShelf.cshtml",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Views\\Shelf\\CreateShelf.cshtml",
+              "RelativeToolTip": "Library\\Views\\Shelf\\CreateShelf.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-01T07:57:47.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Library\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\My codes\\Webiks\\C#\\Library\\Library\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Library\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAywFQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:38:26.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
